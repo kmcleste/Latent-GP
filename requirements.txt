@@ -16,7 +16,6 @@ filelock==3.6.0
 fonttools==4.33.3
 h5py==3.6.0
 ipykernel==6.13.0
-ipython==8.3.0
 jedi==0.18.1
 jupyter-client==7.3.0
 jupyter-core==4.10.0
