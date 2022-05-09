@@ -1,5 +1,3 @@
-Package             Version
-------------------- --------
 aesara              2.6.5
 appnope             0.1.3
 arviz               0.8.3
