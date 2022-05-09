@@ -1,6 +1,6 @@
 # Latent-GP
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uwiaKhn7a8sqKSAxBwqU9AZi6LLwb41g/view?usp=sharing)
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uwiaKhn7a8sqKSAxBwqU9AZi6LLwb41g/view?usp=sharing) -->
 
 The goal of this project is to demonstrate methods to model Gaussian Processes whose underlying function values (priors) are latent variables.
 
